@@ -1,0 +1,11 @@
+{
+  "scan": "A018",
+  "revision": "r1",
+  "layout": [[2, 2]],
+  "blocks": [
+    {"layer": 1, "band": "LL", "block": [0, 0], "bounds": [0, 0, 1, 1], "rows": [[0]]},
+    {"layer": 1, "band": "HL", "block": [0, 0], "bounds": [0, 0, 1, 1], "rows": [[1]]},
+    {"layer": 1, "band": "LH", "block": [0, 0], "bounds": [0, 0, 1, 1], "rows": [[2]]},
+    {"layer": 1, "band": "HH", "block": [0, 0], "bounds": [0, 0, 1, 1], "rows": [[3]]}
+  ]
+}
